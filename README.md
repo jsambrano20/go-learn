@@ -5,8 +5,8 @@ Este repositório contém os meus estudos com a linguagem **Go**, com base no cu
 ## 📚 O que estou aprendendo
 
 ### 📌 Fundamentos da linguagem Go
-- [X] Tipos de dados e variáveis
-- [X] Funções e métodos
+- ✅ Tipos de dados e variáveis
+- ✅ Funções e métodos
 - [ ] Estruturas de controle (`if`, `switch`, `for`, etc.)
 - [ ] Structs, arrays, slices e maps
 - [ ] Pointers
@@ -58,4 +58,3 @@ Este repositório contém os meus estudos com a linguagem **Go**, com base no cu
 ---
 
 Sinta-se livre para clonar este repositório, acompanhar o progresso e contribuir com dicas, sugestões ou correções. 😊
-
