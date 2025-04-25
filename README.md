@@ -7,12 +7,12 @@ Este repositório contém os meus estudos com a linguagem **Go**, com base no cu
 ### 📌 Fundamentos da linguagem Go
 - ✅ Tipos de dados e variáveis
 - ✅ Funções e métodos
-- [ ] Estruturas de controle (`if`, `switch`, `for`, etc.)
-- [ ] Structs, arrays, slices e maps
-- [ ] Pointers
-- [ ] Interfaces
-- [ ] Pacotes e módulos
-- [ ] Manipulação de erros
+- ✅ Estruturas de controle (`if`, `switch`, `for`, etc.)
+- ✅ Structs, arrays, slices e maps
+- ✅ Pointers
+- ✅ Interfaces
+- ✅ Pacotes e módulos
+- ✅ Manipulação de erros
 - [ ] Testes em Go (`testing` package)
 
 ### 🔄 Concorrência em Go
